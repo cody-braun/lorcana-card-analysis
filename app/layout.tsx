@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Lorcana Tracker",
+  title: "Lorcana Card Analysis",
   description: "Card analytics for Lorcana duels.ink match history",
 };
 
