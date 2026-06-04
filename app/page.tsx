@@ -406,7 +406,7 @@ export default function LorcanaTracker() {
         <div className="flex items-center gap-3">
           <span className="text-xl">🃏</span>
           <div>
-            <h1 className="text-sm font-extrabold tracking-tight text-slate-100">Lorcana Tracker</h1>
+            <h1 className="text-sm font-extrabold tracking-tight text-slate-100">Lorcana Card Analysis</h1>
             <p className="text-[10px] text-slate-500 leading-none">duels.ink analytics</p>
           </div>
         </div>
